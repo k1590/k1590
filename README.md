@@ -100,12 +100,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=k1590&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=k1590&theme=tokyonight" alt="GitHub Stats" height="180" />
   <img src="https://streak-stats.demolab.com/?user=k1590&theme=tokyonight&hide_border=false" alt="GitHub Streak" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=k1590&theme=tokyonight&hide_border=false&layout=compact" alt="Top Languages" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=k1590&theme=tokyonight" alt="Top Languages" height="180" />
 </p>
 
 ---
