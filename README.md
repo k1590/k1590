@@ -81,11 +81,11 @@
 <!-- START_PROJECTS -->
 | Project | Description | Language |
 |---------|-------------|----------|
+| [financial-tracker](https://github.com/k1590/financial-tracker) | No description | JavaScript |
 | [-Recognizing-Scarcasm-And-Covert-Abuse](https://github.com/k1590/-Recognizing-Scarcasm-And-Covert-Abuse) | No description | — |
 | [Movie-Recommendation-System-CineMatch](https://github.com/k1590/Movie-Recommendation-System-CineMatch) | No description | CSS |
 | [BDA](https://github.com/k1590/BDA) | BDA Assignments | — |
 | [Hybrid-Privacy-Aware-User-Behavior-Analytics-for-Insider-Threat-Detection](https://github.com/k1590/Hybrid-Privacy-Aware-User-Behavior-Analytics-for-Insider-Threat-Detection) | No description | Python |
-| [financial-tracker](https://github.com/k1590/financial-tracker) | No description | CSS |
 <!-- END_PROJECTS -->
 
 ---
