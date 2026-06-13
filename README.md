@@ -81,7 +81,7 @@
 <!-- START_PROJECTS -->
 | Project | Description | Language |
 |---------|-------------|----------|
-| [FINANCIAL-OPERATIONS-ANALYTICS](https://github.com/k1590/FINANCIAL-OPERATIONS-ANALYTICS) | No description | Jupyter Notebook |
+| [FINANCIAL-OPERATIONS-ANALYTICS](https://github.com/k1590/FINANCIAL-OPERATIONS-ANALYTICS) | No description | python |
 | [financial-tracker](https://github.com/k1590/financial-tracker) | No description | JavaScript |
 | [-Recognizing-Scarcasm-And-Covert-Abuse](https://github.com/k1590/-Recognizing-Scarcasm-And-Covert-Abuse) | No description | — |
 | [Movie-Recommendation-System-CineMatch](https://github.com/k1590/Movie-Recommendation-System-CineMatch) | No description | CSS |
