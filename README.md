@@ -86,6 +86,7 @@
 | [Movie-Recommendation-System-CineMatch](https://github.com/k1590/Movie-Recommendation-System-CineMatch) | No description | CSS |
 | [BDA](https://github.com/k1590/BDA) | BDA Assignments | — |
 | [Hybrid-Privacy-Aware-User-Behavior-Analytics-for-Insider-Threat-Detection](https://github.com/k1590/Hybrid-Privacy-Aware-User-Behavior-Analytics-for-Insider-Threat-Detection) | No description | Python |
+| FINANCIAL-OPERATIONS-ANALYTICS (https://github.com/k1590/FINANCIAL-OPERATIONS-ANALYTICS) | Financial 
 <!-- END_PROJECTS -->
 
 ---
