@@ -81,6 +81,7 @@
 <!-- START_PROJECTS -->
 | Project | Description | Language |
 |---------|-------------|----------|
+| [3d-portfolio](https://github.com/k1590/3d-portfolio) | No description | TypeScript |
 | [FINANCIAL-OPERATIONS-ANALYTICS](https://github.com/k1590/FINANCIAL-OPERATIONS-ANALYTICS) | No description | Jupyter Notebook |
 | [financial-tracker](https://github.com/k1590/financial-tracker) | No description | JavaScript |
 | [-Recognizing-Scarcasm-And-Covert-Abuse](https://github.com/k1590/-Recognizing-Scarcasm-And-Covert-Abuse) | No description | — |
