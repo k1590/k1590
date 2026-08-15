@@ -81,6 +81,7 @@
 <!-- START_PROJECTS -->
 | Project | Description | Language |
 |---------|-------------|----------|
+| [Hybrid-Privacy-Aware-User-Behavior-Analytics-for-Insider-Threat-Detection](https://github.com/k1590/Hybrid-Privacy-Aware-User-Behavior-Analytics-for-Insider-Threat-Detection) | No description | Python |
 | [neetcode-submissions](https://github.com/k1590/neetcode-submissions) | My NeetCode.io problem submissions | Java |
 | [3d-portfolio](https://github.com/k1590/3d-portfolio) | No description | TypeScript |
 | [FINANCIAL-OPERATIONS-ANALYTICS](https://github.com/k1590/FINANCIAL-OPERATIONS-ANALYTICS) | No description | Jupyter Notebook |
@@ -88,7 +89,6 @@
 | [-Recognizing-Scarcasm-And-Covert-Abuse](https://github.com/k1590/-Recognizing-Scarcasm-And-Covert-Abuse) | No description | — |
 | [Movie-Recommendation-System-CineMatch](https://github.com/k1590/Movie-Recommendation-System-CineMatch) | No description | CSS |
 | [BDA](https://github.com/k1590/BDA) | BDA Assignments | — |
-| [Hybrid-Privacy-Aware-User-Behavior-Analytics-for-Insider-Threat-Detection](https://github.com/k1590/Hybrid-Privacy-Aware-User-Behavior-Analytics-for-Insider-Threat-Detection) | No description | Python |
 <!-- END_PROJECTS -->
 
 ---
