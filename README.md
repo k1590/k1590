@@ -81,7 +81,7 @@
 <!-- START_PROJECTS -->
 | Project | Description | Language |
 |---------|-------------|----------|
-| [Hybrid-Privacy-Aware-User-Behavior-Analytics-for-Insider-Threat-Detection](https://github.com/k1590/Hybrid-Privacy-Aware-User-Behavior-Analytics-for-Insider-Threat-Detection) | No description | Python |
+| [Hybrid-Privacy-Aware-User-Behavior-Analytics-for-Insider-Threat-Detection](https://github.com/k1590/Hybrid-Privacy-Aware-User-Behavior-Analytics-for-Insider-Threat-Detection) | No description | HTML |
 | [neetcode-submissions](https://github.com/k1590/neetcode-submissions) | My NeetCode.io problem submissions | Java |
 | [3d-portfolio](https://github.com/k1590/3d-portfolio) | No description | TypeScript |
 | [FINANCIAL-OPERATIONS-ANALYTICS](https://github.com/k1590/FINANCIAL-OPERATIONS-ANALYTICS) | No description | Jupyter Notebook |
